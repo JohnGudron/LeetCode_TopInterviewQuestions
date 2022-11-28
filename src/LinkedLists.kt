@@ -4,7 +4,8 @@ class LinkedLists {
         var next: ListNode? = null
     }
 
-    class LinkedList1() { // created for solving "Merge Two sorted Lists" issue
+    // Below class created only for solving "Merge Two sorted Lists" issue
+    class LinkedList1() {
         var head:ListNode? = null
         var tail:ListNode? = null
 
